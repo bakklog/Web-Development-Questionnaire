@@ -1,5 +1,9 @@
 # Web Development Questionnaire
-The web development questionnaire is a list of questions that can send your client to get a clear idea of what they need. It should be used as a guideline/checklist and tailored to your client/project. The answers can then be used as a foundation on which you can base your proposal.
+The web development questionnaire is a list of questions that can send your client to get a clear idea of what they need. It should be used as a guideline/checklist and tailored to your client/project. The answers can then be used as a foundation on which you can base your proposal. Creating rock-solid systems and processes in your business help you get more done in the same time.
+
+## Why it is so important to get right
+
+A good design/development questionnaire helps ensure that the project isn’t a giant failure. That sounds extreme, but it’s the truth. Without uncovering the real reason your client wants a new website, you could end up building something that doesn’t even come close to their expectations.
 
 ## ⚡️ Contribute
 Do you have suggestions on how to further improve the questionnaire? Please create an [issue](https://github.com/Scopeweb/Web-Development-Questionnaire/issues) and submit your feedback.
